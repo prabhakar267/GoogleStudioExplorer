@@ -1,0 +1,8 @@
+{
+  "name": "Paper Word Ladder",
+  "description": "A Wordle-style 4-letter word ladder game from Paper Games. Change one letter at a time to reach funny emoji targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
