@@ -74,7 +74,7 @@ export const VictoryModal: React.FC<VictoryModalProps> = ({
       })
       .join('\n');
 
-    return `Paper Word Ladder 📜\n${startWord} ➔ ${targetWord} ${target.emoji}\nSteps: ${stepsTaken} (Par: ${parSteps}) · ${performanceLabel}\n\n${grid}\n\nPlay at: https://github.com/prabhakar267/paper-games`;
+    return `Paper Word Ladder 📜\n${startWord} ➔ ${targetWord} ${target.emoji}\nSteps: ${stepsTaken} (Par: ${parSteps}) · ${performanceLabel}\n\n${grid}\n\nPlay at: https://github.com/prabhakar267/GoogleStudioExplorer`;
   };
 
   const handleShare = async () => {

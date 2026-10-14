@@ -43,13 +43,13 @@ export const Header: React.FC<HeaderProps> = ({
       {/* Zone 2: Navigation & GitHub Project */}
       <nav className="hidden md:flex items-center gap-5 text-sm font-medium text-stone-600 dark:text-stone-400">
         <a
-          href="https://github.com/prabhakar267/paper-games"
+          href="https://github.com/prabhakar267/GoogleStudioExplorer"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-stone-900 dark:hover:text-stone-100 flex items-center gap-1.5 transition-colors whitespace-nowrap"
-          title="Part of paper-games project"
+          title="GoogleStudioExplorer repository"
         >
-          <span>paper-games</span>
+          <span>GoogleStudioExplorer</span>
           <ExternalLink className="w-3.5 h-3.5 opacity-70" />
         </a>
         <button

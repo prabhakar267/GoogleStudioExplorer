@@ -133,12 +133,12 @@ export default function App() {
           <p>
             Part of{' '}
             <a
-              href="https://github.com/prabhakar267/paper-games"
+              href="https://github.com/prabhakar267/GoogleStudioExplorer"
               target="_blank"
               rel="noopener noreferrer"
               className="text-stone-700 dark:text-stone-300 font-semibold underline underline-offset-2 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors"
             >
-              paper-games
+              GoogleStudioExplorer
             </a>
           </p>
         </div>
